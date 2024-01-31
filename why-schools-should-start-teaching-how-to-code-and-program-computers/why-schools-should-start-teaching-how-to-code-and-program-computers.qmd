@@ -1,0 +1,43 @@
+---
+title: "Why schools should start teaching how to code and program computers"
+author: "Peter Mwangi Olum"
+format: 
+    html:
+        self-contained: true
+        toc-title: Contents
+        toc: true
+        toc-depth: 3
+        toc-location: left
+        number-sections: false
+        highlight-style: github
+knitr: 
+    opts_chunk:
+        message: false
+        warning: false
+editor: visual
+---
+
+We put a lot of years into learning how to read, write and do maths so that we can use this valuable skill to get many things done in this world through initiating human-to-human communication. However, there is another world referred to as the computer world or the digital world. This world requires a special kind of literacy called digital literacy which empowers us to use computers and other digital devices to do particular tasks by initiating human-to-computer communication. Digital literacy is the ability to use computers and other digital devices such as smartphones, tablets, laptops, the Internet, e.t.c. to find, evaluate, create, and communicate information. 
+
+Digital literacy is no longer measured by people's ability to use digital devices. The new measure of digital literacy is peoples ability to read and write code. This is similar to the way we use our ability to read and write words and numbers as a measure of literacy in a particular language. Just like we use words and numbers to communicate to other human beings, we use code to communicate to digital devices. 
+
+## What is coding?
+
+In software engineering or what is commonly referred to as computer programming, website design and development, mobile application development, desktop application development, games development, embedded system development e.t.c., coding is writing a sequence of instructions about how a computer or any other digital device should perform a particular task. Like any other language, coding requires that we first learn both the syntax and the semantic of a programming language before starting to use the language to communicate to computers and other digital devices. We initiate human-to-machine communication in order to instruct it how to solve a particular problem. Therefore, like any other language, the more you practice actively how to use a particular coding and programming language, especially from a younger age, the more you become proficient and comfortable using it to solve various real world problems. This actually explains why some parents have a habit of reading stories and narratives to their babies everyday to cultivate a reading culture in their children from a younger age. The same should be applied to our primary and secondary school going children as far as coding and computer programming is concerned. This will demonstrate to them the power of computers by helping them to code and build small fun projects to ensure they become curious and passionate about computers and technology in general.
+
+## What is computer programming?
+
+Computer programming is the art and science of creating computer programs that do particular tasks, build softwares and applications that make computers and mobile devices smart, make games that entertain people, build websites that help people find, evaluate, create, and communicate information, build applications that help people send and receikve information over the network, e.t.c. Here, I've used the word art because programs, softwares, applications, games, websites, e.t.c must be well thought of in terms of design and ease of use. I've used the word science because they must solve the problem they intended to solve at a minimum cost possible. Getting good at computer programming requires one to keep on solving more and more problems using code. Therefore, its an advantage to start learning how to code and program a computer from a younger age. 
+
+## What is Artificial Intelligence (AI)?
+
+Artificial Intelligence (AI) is Machine Learning (ML) or Data Science. This is where computers and other digital devices learn how to do things that human beings are naturally good at. AI researchers are actively researching how to create Robots that will revolutionize and take over the world. For example, it's AI that is powering how Google and other search engines search content on the web, how Youtube, Netflix, Spotify and other online video and audio providers recommend videos to users based on what they've been watching in the past, how facebook, twitter, instagram, Tiktok and other social media platforms serve content to their membership pages based on what they have been clicking and view most, in hospitals where machines are programmed using data to assist doctors in making diagnosis especially in regions that have very few specialist doctors and medical staff, in agriculture where machines are programmed to automate things like plucking tea and counting the number of ripe fruits, in manufacturing where AI is deployed to inspect whether manufactured goods have defect or not, in the education sector where we see AI taking over in marking and grading exams, in the entertainment industry where we see people playing chess against a computer or a machine opponent, and recently, we're experiencing ChatGPT which has been built by Open AI. This tool is postulated to take over so many white collar jobs and currently it can be prompted to write AI generated article, answer questions, and many other things that ordinarily needs an expert to be prompted for answers. Our school going learners should not bury their heads in the sand like Ostriches, and be ignorant of Information Computer Technology (ICT). Instead, they should embrace technology by learning how AI coding technology works, even if they are not interested in being software engineers in future. 
+
+## Why train how to code, program, and build AI Robots?
+
+1. Knowledge and experience in Information Technology (IT) in terms of both infrastructure and software are foundational for all student. Passing IT knowledge to our students will open their minds and help them make informed decisions when they're occupying the digital spaces. Knowledge in advance IT will definately be an added advantage to them even if they don't end up pursuing STEM related courses and professions in future.
+2. Coding, programming, and AI skills and knowledge are in high demand. Out out the 8 billion people on planet Earth, only a very small fraction of them have this special ability to communicate to computers and other digital devices. Therefore, there's a lot of job opportunity in the IT sectors, especially for software developers and engineers. Equiping our learners with this skill will therefore help them secure stable jobs or help them start entrepreneurship venture in the digital economy in foreseable future.
+3. Training our learners on coding, programming and AI robotics will help learners think analytically and logically so that they can solve a given problem. 
+4. Training our learners on coding, programming and AI robotics will offer them career guidance and inform some of them ending up picking IT and Computer Science career paths.
+5. Training our learners on coding, programming and AI robotics will motivate some of them to be innovative and creative to come up with their own products such as websites, games, apps, softwares, e.t.c. that may make the world a better place.
+6. The coding, programming, and AI projects that the learners will be doing will train them how to collaborate and work together as a team. Teamwork, collaboration, and good communication skills is definately a good skill to have.
